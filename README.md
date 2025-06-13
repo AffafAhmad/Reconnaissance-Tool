@@ -23,12 +23,7 @@ For the solution We introduce you to :
     => WAPPALYZER LOOKUP
     => Sub Directory Enumeration
                                                                                                                    
-                                                                                                               
-  To Download it you can use:
-
-    wget https://codeload.github.com/M-Abid34/Atomic-Scanner/zip/refs/heads/main
-    git clone https://github.com/M-Abid34/Atomic-Scanner.git
-    
+                                                                                                                   
   Dependencis:
     
     pip install python-Wappalyzer
